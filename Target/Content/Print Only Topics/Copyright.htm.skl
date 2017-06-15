@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="General.PDF" MadCap:lastBlockDepth="2" MadCap:lastHeight="382" MadCap:lastWidth="1025" xml:space="preserve">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="CopyrightHeading">砻קยด1ตว融</p>
+        <p class="Copyright">砻קยด2ตว融</p>
+        <p class="CopyrightAddress"><MadCap:variable name="General.CompanyName" />
+        </p>
+        <p class="CopyrightAddress"><MadCap:variable name="General.StreetAddress" />
+        </p>
+        <p class="CopyrightAddress"><MadCap:variable name="General.CityStateZip" />
+        </p>
+        <p class="CopyrightAddress"><MadCap:variable name="General.PhoneNumber" /> </p>
+        <p class="CreatedUsingFlare">砻קยด3ตว融</p>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="298" MadCap:lastWidth="666" MadCap:conditions="General.PDF" xml:space="preserve">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body class="row">
+        <h1>砻קยด1ตว融</h1>
+        <p class="FirstPageOfChapter">砻קยด2ตว融</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/MiniTOC.flsnp" />
+    </body>
+</html>

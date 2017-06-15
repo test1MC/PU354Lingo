@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="4" MadCap:lastHeight="280" MadCap:lastWidth="1582" xml:space="preserve">
+    <head>
+        <link href="" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <h1><MadCap:concept term="LinksLists" />
+            <MadCap:keyword term="Links;Lists" />砻קยด3ตว融</h1>
+        <p class="FirstPageOfChapter">砻קยด4ตว融</p>
+        <MadCap:snippetBlock src="../Resources/Snippets/MiniTOC.flsnp" MadCap:conditions="General.PDF" />
+        <ul MadCap:conditions="General.Online">
+            <li>砻קยด5ตว融</li>
+            <li>砻קยด6ตว融</li>
+            <li>砻קยด7ตว融</li>
+        </ul>
+    </body>
+</html>
